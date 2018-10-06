@@ -89,8 +89,7 @@ app_license = "MIT"
 
 # Scheduled Tasks
 # ---------------
-
- scheduler_events = {
+scheduler_events = {
  	"monthly": [
  		"app2.tools.period_close"
  	]
